@@ -39,7 +39,7 @@ h1, h2, h3 {
   justify-content: space-between;
 }
 .logo {
-  max-width: 520px;
+  max-width: 720px;
   width: 100%;
   height: auto;
 }
@@ -161,6 +161,7 @@ footer {
   font-size: 14px;
   color: #555;
 }
+
 
 
 
