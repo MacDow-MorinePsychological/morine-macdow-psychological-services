@@ -32,12 +32,14 @@ h1, h2, h3 {
   padding: 12px 20px 0px 20px;
 }  
 .header-container {
-  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
   padding: 0 40px;
   display: flex;
   align-items: center;
   justify-content: space-between;
 }
+
 .logo {
   max-width: 720px;
   width: 100%;
@@ -161,6 +163,7 @@ footer {
   font-size: 14px;
   color: #555;
 }
+
 
 
 
