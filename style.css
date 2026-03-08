@@ -86,7 +86,7 @@ height: auto;
 }
 .hero {
 background: linear-gradient(rgba(0,0,0,0.35), rgba(0,0,0,0.35)),
-url('sunset.jpg') center center/cover no-repeat;
+url('sunset.jpeg') center center/cover no-repeat;
 min-height: 420px;
 padding: 140px 20px;
 text-align: center;
@@ -210,6 +210,7 @@ color: #1F5F5B;
 display: block;
 text-align: center;
 }
+
 
 
 
