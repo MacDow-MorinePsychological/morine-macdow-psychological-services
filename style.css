@@ -192,6 +192,9 @@ background: #7FAFA6;
 color: white;
 padding: 60px 20px;
 }
+section:last-of-type a {
+color: white;
+}
 
 
 
