@@ -74,7 +74,7 @@ header {
 .cta-button {
   display: inline-block;
   background: white;
-  color: var(--deep-sage);
+  color: #2f3437;
   padding: 14px 35px;
   text-decoration: none;
   border-radius: 30px;
@@ -83,7 +83,7 @@ header {
 }
 
 .cta-button:hover {
-  background: var(--cream);
+  background: #f6f7f5;
 }
 
 /* LAYOUT */
@@ -312,6 +312,7 @@ footer a {
   background-color: #e6f3f4;
   color: #2f3437;
 }
+
 
 
 
