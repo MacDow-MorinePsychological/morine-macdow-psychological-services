@@ -67,8 +67,8 @@ height: auto;
 }
 
 .main-nav a:hover {
-  background: var(--ocean);
-}
+  background: #5F9C93;
+  color: white;
 
 
 /* HERO */
@@ -199,6 +199,7 @@ color: #1F5F5B;
 display: block;
 text-align: center;
 }
+
 
 
 
