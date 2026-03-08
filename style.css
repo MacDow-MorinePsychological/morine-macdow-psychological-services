@@ -158,7 +158,7 @@ h2 {
 
 /* CONTACT */
 .contact {
-  background-color: var(--ocean);
+  background-color: #9ec5c9;
   color: white;
   text-align: center;
   padding: 20px 0; /* keeps it from feeling too tall */
@@ -312,6 +312,7 @@ footer a {
   background-color: #e6f3f4;
   color: #2f3437;
 }
+
 
 
 
