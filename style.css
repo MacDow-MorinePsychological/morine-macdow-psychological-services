@@ -250,8 +250,35 @@ footer a {
 .site-header {
   background: white;
   border-bottom: 1px solid #eee;
+  padding: 20px 0;
 }
 
+.header-container {
+  width: 92%;
+  max-width: 1200px;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo {
+  max-width: 260px;
+}
+
+.main-nav {
+  display: flex;
+  align-items: center;
+  gap: 45px;
+}
+
+.main-nav a {
+  text-decoration: none;
+  color: #2f3437;
+  font-weight: 500;
+  font-family: 'Inter', sans-serif;
+  letter-spacing: 0.4px;
+}
 .header-container {
   width: 90%;
   max-width: 1200px;
@@ -280,6 +307,7 @@ footer a {
 .main-nav a:hover {
   color: #6faeb3;
 }
+
 
 
 
