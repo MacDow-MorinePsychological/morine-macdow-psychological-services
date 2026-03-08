@@ -302,10 +302,15 @@ footer a {
   color: #2f3437;
   font-weight: 500;
   font-family: 'Inter', sans-serif;
+  letter-spacing: 0.4px;
+  padding: 8px 18px;
+  border-radius: 22px;
+  transition: all 0.25s ease;
 }
 
 .main-nav a:hover {
-  color: #6faeb3;
+  background-color: #e6f3f4;
+  color: #2f3437;
 }
 
 
