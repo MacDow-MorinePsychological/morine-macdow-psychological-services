@@ -326,6 +326,23 @@ footer a {
 }
 
 
+/* FINAL NAVIGATION STYLE */
+
+nav.main-nav a {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 6px;
+    background: #e8f3f2;
+    border-radius: 22px;
+    border: 1px solid #d5e6e3;
+    text-decoration: none;
+    color: #2f3437;
+    font-weight: 500;
+}
+
+nav.main-nav a:hover {
+    background: #9ec5c9;
+}
 
 
 
