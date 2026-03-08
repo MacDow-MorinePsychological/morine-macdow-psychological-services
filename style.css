@@ -179,8 +179,6 @@ margin-bottom: 20px;
 }
 
 footer {
-background: #7FAFA6;
-color: white;
 text-align: center;
 padding: 30px 20px;
 margin-top: 40px;
@@ -188,6 +186,11 @@ margin-top: 40px;
 footer a {
 color: white;
 text-decoration: underline;
+}
+section:last-of-type {
+background: #7FAFA6;
+color: white;
+padding: 60px 20px;
 }
 
 
