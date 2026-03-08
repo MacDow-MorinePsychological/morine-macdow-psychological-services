@@ -76,7 +76,7 @@ height: auto;
 /* HERO */
 
 .hero {
-background: linear-gradient(rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("/morine-macdow-psychological-services/sunset.jpg");
+background: linear-gradient(rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("sunset.jpg");
 background-size: cover;
 background-position: center;
 background-repeat: no-repeat;
@@ -204,6 +204,7 @@ color: #1F5F5B;
 display: block;
 text-align: center;
 }
+
 
 
 
