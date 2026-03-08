@@ -178,7 +178,17 @@ text-align: center;
 margin-bottom: 20px;
 }
 
-
+footer {
+background: #7FAFA6;
+color: white;
+text-align: center;
+padding: 30px 20px;
+margin-top: 40px;
+}
+footer a {
+color: white;
+text-decoration: underline;
+}
 
 
 
