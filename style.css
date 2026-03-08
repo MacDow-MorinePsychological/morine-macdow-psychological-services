@@ -67,6 +67,8 @@ height: auto;
 }
 
 .main-nav a:hover {
+  background: var(--ocean);
+}
   background: #5F9C93;
   color: white;
 
@@ -84,18 +86,7 @@ height: auto;
   max-width: 800px;
   margin: auto;
 }
-.hero {
-background: linear-gradient(rgba(0,0,0,0.35), rgba(0,0,0,0.35)),
-url('sunset.jpeg') center center/cover no-repeat;
-min-height: 420px;
-padding: 140px 20px;
-text-align: center;
-color: white;
-display: flex;
-flex-direction: column;
-justify-content: center;
-align-items: center;
-}
+
 .hero h1 {
   font-size: 2.3rem;
   margin-bottom: 20px;
@@ -118,19 +109,19 @@ align-items: center;
 /* HERO BUTTON */
 
 .cta-button {
-display: inline-block;
-margin-top: 20px;
-background: white;
-color: var(--charcoal);
-padding: 14px 34px;
-border-radius: 30px;
-text-decoration: none;
-font-weight: 500;
-transition: all .25s ease;
+  display: inline-block;
+  margin-top: 20px;
+  background: white;
+  color: var(--charcoal);
+  padding: 14px 34px;
+  border-radius: 30px;
+  text-decoration: none;
+  font-weight: 500;
+  transition: all .25s ease;
 }
 
 .cta-button:hover {
-background: var(--cream);
+  background: var(--cream);
 }
 
 
@@ -210,13 +201,6 @@ color: #1F5F5B;
 display: block;
 text-align: center;
 }
-
-
-
-
-
-
-
 
 
 
