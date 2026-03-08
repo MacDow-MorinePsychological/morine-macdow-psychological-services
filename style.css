@@ -345,6 +345,23 @@ nav.main-nav a:hover {
 }
 
 
+/* FORCE NAV BUTTON STYLE */
+
+.main-nav a {
+    display: inline-block !important;
+    padding: 10px 20px !important;
+    margin: 6px !important;
+    background: #e8f3f2 !important;
+    border-radius: 22px !important;
+    border: 1px solid #d5e6e3 !important;
+    text-decoration: none !important;
+    color: #2f3437 !important;
+    font-weight: 500 !important;
+}
+
+.main-nav a:hover {
+    background: #9ec5c9 !important;
+}
 
 
 
