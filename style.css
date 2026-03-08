@@ -306,21 +306,25 @@ footer a {
   gap: 30px;
 }
 
-.main-nav a {
-  text-decoration: none;
-  color: #2f3437;
-  font-weight: 500;
-  font-family: 'Inter', sans-serif;
-  letter-spacing: 0.4px;
-  padding: 8px 18px;
-  border-radius: 22px;
-  transition: all 0.25s ease;
+/* Navigation button polish */
+
+.site-header nav a {
+    display: inline-block;
+    padding: 8px 18px;
+    margin: 6px;
+    background: #eaf4f4;
+    border-radius: 20px;
+    border: 1px solid #d9e5e3;
+    text-decoration: none;
+    color: #2f3437;
+    font-weight: 500;
+    transition: all 0.25s ease;
 }
 
-.main-nav a:hover {
-  background-color: #e6f3f4;
-  color: #2f3437;
+.site-header nav a:hover {
+    background: #7fbfc4;
 }
+
 
 
 
