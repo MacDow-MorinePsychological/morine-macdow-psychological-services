@@ -35,7 +35,7 @@ header {
 .hero {
   background:
     linear-gradient(rgba(111, 131, 107, 0.62), rgba(111, 131, 107, 0.62)),
-    url('https://images.unsplash.com/photo-1507525428034-b723cf961d3e');
+    url('sunset.jpg');
   background-size: cover;
   background-position: center;
   color: white;
@@ -243,4 +243,5 @@ footer a {
   .card {
     padding: 24px;
   }
+
 }
