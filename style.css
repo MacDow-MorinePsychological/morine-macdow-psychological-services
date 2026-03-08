@@ -1,9 +1,9 @@
 :root {
-  --sage: #6f836b;
-  --deep-sage: #4e5f4a;
-  --ocean: #9ec5c9;
+  --teal-light: #cfe9ea;
+  --teal: #9ec5c9;
+  --teal-deep: #6faeb3;
   --charcoal: #2f3437;
-  --cream: #f6f7f5;
+  --cream: #f7f8f6;
 }
 
 * {
@@ -312,6 +312,7 @@ footer a {
   background-color: #e6f3f4;
   color: #2f3437;
 }
+
 
 
 
