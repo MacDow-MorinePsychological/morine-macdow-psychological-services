@@ -108,22 +108,18 @@ height: auto;
 
 .cta-button {
 display: inline-block;
-margin-top: 22px;
-padding: 14px 30px;
+margin-top: 20px;
 background: white;
-color: #1F5F5B;
+color: var(--charcoal);
+padding: 14px 34px;
 border-radius: 30px;
 text-decoration: none;
-font-weight: 600;
-box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+font-weight: 500;
 transition: all .25s ease;
 }
 
 .cta-button:hover {
-background: #1F5F5B;
-color: white;
-transform: translateY(-2px);
-box-shadow: 0 6px 14px rgba(0,0,0,0.2);
+background: var(--cream);
 }
 
 
@@ -203,6 +199,7 @@ color: #1F5F5B;
 display: block;
 text-align: center;
 }
+
 
 
 
