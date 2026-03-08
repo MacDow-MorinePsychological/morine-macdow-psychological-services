@@ -33,11 +33,13 @@ header {
 
 /* HERO */
 .hero {
-  background:
-    linear-gradient(rgba(111,131,107,0.85), rgba(111,131,107,0.85)),
-    url('sunset.jpg');
+  background: linear-gradient(rgba(111,131,107,0.85), rgba(111,131,107,0.85)),
+              url('sunset.jpg');
   background-size: cover;
   background-position: center;
+  padding: 140px 20px;
+  color: white;
+  text-align: center;
 }
   color: white;
   text-align: center;
@@ -246,5 +248,6 @@ footer a {
   }
 
 }
+
 
 
