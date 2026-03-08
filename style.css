@@ -41,9 +41,9 @@ h1, h2, h3 {
 }
 
 .logo {
-  max-width: 720px;
-  width: 100%;
-  height: auto;
+max-width: 680px;
+width: 100%;
+height: auto;
 }
 
 /* NAVIGATION */
@@ -163,6 +163,7 @@ footer {
   font-size: 14px;
   color: #555;
 }
+
 
 
 
