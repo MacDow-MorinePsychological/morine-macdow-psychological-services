@@ -74,7 +74,7 @@ height: auto;
 /* HERO */
 
 .hero {
-  background: url('sunset.jpg') center/cover no-repeat;
+  background: linear-gradient(rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url('sunset.jpg') center/cover no-repeat;
   padding: 140px 20px;
   text-align: center;
   color: white;
@@ -199,6 +199,7 @@ color: #1F5F5B;
 display: block;
 text-align: center;
 }
+
 
 
 
