@@ -32,8 +32,8 @@ h1, h2, h3 {
   padding: 20px 20px 5px 20px;
 }  
 .header-container {
-  max-width: 1200px;
-  margin: auto;
+  width: 100%;
+  padding: 0 40px;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -160,5 +160,6 @@ footer {
   font-size: 14px;
   color: #555;
 }
+
 
 
