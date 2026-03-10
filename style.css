@@ -76,17 +76,10 @@ height: auto;
 /* HERO */
 
 .hero {
-background: url("sunset.jpg");
-background-size: cover;
-background-position: center;
-background-repeat: no-repeat;
-padding: 160px 20px;
-text-align: center;
-color: white;
-min-height: 420px;
-display: flex;
-align-items: center;
-justify-content: center;
+  background: linear-gradient(rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url('sunset.jpg') center/cover no-repeat;
+  padding: 140px 20px;
+  text-align: center;
+  color: white;
 }
 
 .hero-content {
@@ -208,12 +201,6 @@ color: #1F5F5B;
 display: block;
 text-align: center;
 }
-
-
-
-
-
-
 
 
 
