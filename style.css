@@ -92,9 +92,8 @@ height: auto;
 
 .hero p {
   max-width: 640px;
-  margin: auto;
+  margin: 15px auto;
 }
-
 
 /* AVAILABILITY TEXT */
 
@@ -199,6 +198,7 @@ color: #1F5F5B;
 display: block;
 text-align: center;
 }
+
 
 
 
