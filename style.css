@@ -212,6 +212,23 @@ text-align: center;
   font-size: 1.05rem;
 }
 
+/* Philosophy Section */
+
+.philosophy {
+  background-color: #f4f8f7;
+  padding: 70px 20px;
+}
+
+.philosophy p {
+  max-width: 720px;
+  margin: 18px auto;
+  line-height: 1.7;
+  font-size: 1.05rem;
+}
+
+.philosophy h2 {
+  margin-bottom: 30px;
+}
 
 
 
