@@ -198,6 +198,19 @@ color: #1F5F5B;
 display: block;
 text-align: center;
 }
+.support-list {
+  column-count: 2;
+  column-gap: 60px;
+  max-width: 820px;
+  margin: 40px auto;
+  padding: 0;
+  list-style: none;
+  text-align: left;
+}
+
+.support-list li {
+  margin-bottom: 14px;
+  font-size: 1.05rem;
 
 
 
