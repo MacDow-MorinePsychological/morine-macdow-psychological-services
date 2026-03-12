@@ -150,9 +150,9 @@ section {
 .contact p {
   opacity: .95;
   max-width: 650px;
-  margin: auto;
+  margin: 14px auto;
+  line-height: 1.6;
 }
-
 
 /* FOOTER */
 
@@ -230,6 +230,7 @@ text-align: center;
   width: 100vw;
   margin-left: calc(50% - 50vw);
 }
+
 
 
 
