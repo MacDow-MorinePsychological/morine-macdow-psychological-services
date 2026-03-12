@@ -224,13 +224,12 @@ text-align: center;
 
 .support-section {
   background-color: #dfeeee;
-  padding: 60px 0;
+  padding: 80px 20px;
+  text-align: center;
 }
 
-.support-section .container {
-  max-width: 800px;
-  margin: 0 auto;
-}
+
+
 
 
 
