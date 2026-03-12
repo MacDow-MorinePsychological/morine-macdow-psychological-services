@@ -225,8 +225,11 @@ text-align: center;
 .support-section {
   background-color: #dfeeee;
   padding: 60px 0;
-  margin-left: calc(50% - 50vw);
-  margin-right: calc(50% - 50vw);
+}
+
+.support-section .container {
+  max-width: 800px;
+  margin: 0 auto;
 }
 
 
