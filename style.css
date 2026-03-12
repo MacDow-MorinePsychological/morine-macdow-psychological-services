@@ -226,6 +226,9 @@ text-align: center;
   background-color: #dfeeee;
   padding: 80px 20px;
   text-align: center;
+
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
 }
 
 
