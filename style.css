@@ -41,7 +41,7 @@ h1, h2, h3 {
 }
 
 .logo {
-max-width: 680px;
+max-width: 420px;
 width: 100%;
 height: auto;
 }
@@ -235,6 +235,7 @@ text-align: center;
   margin-left: calc(50% - 50vw);
   margin-right: calc(50% - 50vw);
 }
+
 
 
 
