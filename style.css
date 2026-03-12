@@ -224,9 +224,11 @@ text-align: center;
 
 .support-section {
   background-color: #dfeeee;
-  padding: 60px 20px;
-  width: 100%;
+  padding: 60px 0;
+  margin-left: calc(50% - 50vw);
+  margin-right: calc(50% - 50vw);
 }
+
 
 
 
