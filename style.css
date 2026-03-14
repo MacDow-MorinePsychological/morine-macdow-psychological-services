@@ -241,7 +241,19 @@ text-align: center;
     border-radius: 8px;
     margin-top: 20px;
 }
+.about-container {
+    display: flex;
+    align-items: flex-start;
+    gap: 30px;
+}
 
+.about-photo {
+    flex-shrink: 0;
+}
+
+.about-text {
+    flex: 1;
+}
 
 
 
