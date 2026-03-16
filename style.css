@@ -280,22 +280,13 @@ text-align: center;
 .header-container {
 padding: 0 16px;
 }
-main-nav {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
+
 }
-main-nav a {
-  margin: 6px;
-  padding: 8px 14px;
-  font-size: 14px;
-}
-}
+
 .hero {
 max-width: 100%;
 overflow: hidden;
 }
-
 
 
 
