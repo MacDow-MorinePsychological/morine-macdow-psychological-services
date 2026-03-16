@@ -17,6 +17,7 @@ body {
   color: var(--charcoal);
   background: var(--cream);
   line-height: 1.6;
+  overflow-x: hidden;
 }
 
 h1, h2, h3 {
