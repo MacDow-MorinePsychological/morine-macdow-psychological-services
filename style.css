@@ -290,13 +290,13 @@ text-align: center;
     max-width: 260px;
   }
 
-  .main-nav {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 4px;
-    margin-top: -8px;
-  }
+ .main-nav {
+  display: grid;
+  grid-template-columns: repeat(6, auto);
+  justify-content: center;
+  gap: 4px;
+  margin-top: -8px;
+}
 
   .main-nav a {
     margin: 0;
