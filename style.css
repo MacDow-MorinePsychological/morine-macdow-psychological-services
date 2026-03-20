@@ -281,27 +281,30 @@ text-align: center;
 
   .header-container {
     padding: 0 12px;
-    gap: 8px;
+    gap: 2px;
     flex-wrap: wrap;
     justify-content: center;
   }
 
   .logo {
-    max-width: 220px;
+    max-width: 260px;
   }
 
   .main-nav {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 6px;
+    gap: 4px;
+    margin-top: 2px;
   }
 
   .main-nav a {
     margin: 0;
-    padding: 7px 12px;
-    font-size: 0.9rem;
+    padding: 6px 10px;
+    font-size: 0.82rem;
   }
+
+}
 
 }
 
