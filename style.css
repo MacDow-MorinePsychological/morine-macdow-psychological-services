@@ -288,12 +288,13 @@ text-align: center;
     max-width: 260px;
   }
 
- .main-nav {
-  display: grid;
-  grid-template-columns: repeat(6, auto);
+.main-nav {
+  display: flex;
+  flex-wrap: wrap;
   justify-content: center;
   gap: 4px;
   margin-top: -8px;
+  max-width: 100%;
 }
 
   .main-nav a {
