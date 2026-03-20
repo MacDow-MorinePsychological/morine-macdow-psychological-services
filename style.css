@@ -82,7 +82,8 @@ height: auto;
   padding: 80px 20px;
   text-align: center;
   color: white;
-  width: 100%;
+  box-sizing: border-box;
+  overflow: hidden;
 }
 
 .hero-content {
@@ -304,10 +305,7 @@ text-align: center;
 
 }
 
-.hero {
-max-width: 100%;
-overflow: hidden;
-}
+
 
 
 
