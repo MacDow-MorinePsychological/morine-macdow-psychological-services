@@ -309,14 +309,19 @@ text-align: center;
 
   .about-photo img {
     width: 100%;
-    max-width: 300px;
+    max-width: 240px;
   }
 
   .about-text {
     width: 100%;
   }
 
+  .about-text h1,
+main h1 {
+  font-size: 2.2rem;
+  line-height: 1.2;
 }
+
 
 }
 
