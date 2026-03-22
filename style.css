@@ -8,7 +8,9 @@
   --cream: #f6f7f5;
 }
 
-
+* {
+  box-sizing: border-box;
+}
 /* GLOBAL */
 
 body {
@@ -133,11 +135,6 @@ height: auto;
 section {
   padding: 45px 20px;
 }
-  max-width: 900px;
-  margin: auto;
-  text-align: center;
-}
-
 
 /* INQUIRIES */
 
@@ -275,7 +272,7 @@ main h2 {
 text-align: center;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 900px) {
 
   .header-container {
     padding: 0 12px;
